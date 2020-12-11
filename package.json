@@ -1,0 +1,24 @@
+{
+  "name": "@xoafeu/dbutil",
+  "description": "Database utilities",
+  "author": "xoaf.eu@gmail.com",
+  "version": "2.2.2",
+  "dependencies": {},
+  "main": "index.js",
+  "devDependencies": {},
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xoafeu/dbutil.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xoafeu/dbutil/issues"
+  },
+  "homepage": "https://github.com/xoafeu/dbutil#readme"
+}
